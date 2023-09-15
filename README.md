@@ -1,2 +1,3 @@
-# CS50x
-What i'm studying at CS50x by Harvard University on Edx
+# Week-1-C
+
+On Week 1, i learn some basic C programming, data types, operators, conditional statements, loops, and command lines
